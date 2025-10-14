@@ -1,4 +1,4 @@
-## Bievenidas, bienvenidos, bienvenides 👋
+## Bienvenides, bienvenidas, bienvenidos 👋
 
 Esta es la cuenta de GitHub de ***R y ciencia de datos***, un grupo de aficionados y profesionales de todo el mundo que trabajamos con el lenguaje `R` para análisis estadístico y especialmente para ciencia de datos. Usamos el grupo para resolver dudas y apoyarnos con respuestas.
 
